@@ -1,1 +1,1 @@
-# react-zustand
+# React Zustand
